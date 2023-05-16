@@ -10,8 +10,7 @@ REPLACE EVERY ANSWER, COMMIT AND UPDATE THE FILE
 
 
 # What improvements were made to TrufiCore?
-adwdawd
 
-arareagagagr
-
-noererdfergeragaergeag
+Add a new feature
+Fix some bugs
+Improve trufi core
